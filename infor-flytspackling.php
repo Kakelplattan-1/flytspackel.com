@@ -49,7 +49,7 @@
 		</p>
 		<p class="offert-a">			
 			Flytspacklet förstärker inte golvet utan man kan gå ner på minimumnivån med flytspacklet. Exempel på flytspackel är 
-			<a class="text-body" href="http://www.kakelplattan.se/index.php?menu=produkt&id=6411512001203" target="_blank">
+			<a class="text-body" href="https://www.kakelplattan.se/index.php?menu=produkt&id=6411512001203" target="_blank">
 				Kiilto Floor Heat DF, 
 			</a>
 			det är ett fiberarmerade flytspackel har minimum 3 mm och ett maximum på 50 mm per gjutning.
@@ -102,7 +102,7 @@
 		</p>
 		<p class="offert-a">
 		Kiilto har nyligen kommit med en fästprimer som gör att vidhäftningen blir mycket bättre, 
-		<a class="text-body" href="http://www.kakelplattan.se/index.php?menu=produkt&id=6411513699058" target="_blank">Kiilto Fix Primer.</a>
+		<a class="text-body" href="https://www.kakelplattan.se/index.php?menu=produkt&id=6411513699058" target="_blank">Kiilto Fix Primer.</a>
 		Den innehåller sand som fastnar i aluminiumfolien (eller andra typer av metal) och bildar en häftbrygga.		
 		</p>		
 		<br />		<br />		<br />		<br />			<br />		<br />

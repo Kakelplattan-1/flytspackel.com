@@ -2,7 +2,7 @@
 	<div class="container bg-primary">
 		<div class="card-group">
 			<div class="card-body card bg-primary col">
-				<a class="text-white" href="http://www.kakelplattan.se">
+				<a class="text-white" href="https://www.kakelplattan.se">
 					Kakelplattan AB
 				</a>				
 					Hämtlager, ring/e-posta innan:					
@@ -23,7 +23,7 @@
 					<a class="text-white" href="mailto:info@kakelplattan.se?Subject=Hej från www.flytspackel.com" target="_top">
 						info@kakelplattan.se
 					</a>
-					<a class="text-white" href="http://www.kakelplattan.se">
+					<a class="text-white" href="https://www.kakelplattan.se">
 						www.Kakelplattan.se
 					</a>
 					<a class="text-white" href="index.php">

@@ -19,12 +19,12 @@
 				Support p&aring; 054-18 81 80 mellan 7 - 21 (&auml;ven l&ouml;rdag & s&ouml;ndag). 
 			</h4>
 			<h4>	
-				<a href="http://www.kakelplattan.se/index.php?menu=bestalla">
+				<a href="https://www.kakelplattan.se/index.php?menu=bestalla">
 					Du f&aring;r &auml;ven skriva till oss, klicka h&auml;r.
 				</a>
 			</h4>
 			<br />
-			<a href="http://www.kakelplattan.se/index.php?menu=offert">			
+			<a href="https://www.kakelplattan.se/index.php?menu=offert">			
 			<h4>
 					Har du flera rum som du vill ha offert p&aring;, klicka h&auml;r. 
 			</h4>
@@ -35,7 +35,7 @@
 			</h4>
 			</a>	
 			<h4>
-			<a href="http://www.kakelplattan.se/index.php">				
+			<a href="https://www.kakelplattan.se/index.php">				
 				Vill du komma till f&ouml;rstasidan klickar du h&auml;r.
 			</a>
 			</h4>

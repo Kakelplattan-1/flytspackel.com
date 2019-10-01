@@ -194,7 +194,7 @@
 					6) Ja, den ska torka.<br />
 					7) Nej om det inte är ytsvag betong.<br />
 					8) Ta den längst bort. Du kan flytspackla lager på varandra också!<br />
-					9) Vi skulle använda Kiilto Plan Rapid 25 kg till detta rum. http://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257
+					9) Vi skulle använda Kiilto Plan Rapid 25 kg till detta rum. https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257
 				</div>
 			</div>    
 		</div>
@@ -229,15 +229,15 @@
 					Ni ska även ha armeringsnät på och minst 12 mm fiberarmerat flytspackel (om det inte är svikt och regnet kan komma in).<br />
 					
 					3) Vi säljer Kiilto och har de här 2 produkterna som kan passa.<br />
-					http://www.kakelplattan.se/index.php?menu=produkt&id=6411512001203<br />
-					http://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
+					https://www.kakelplattan.se/index.php?menu=produkt&id=6411512001203<br />
+					https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
 					
 					4) Du ska följa märket här och använda startprimer.<br />
 					
 					5) Vi har ett andringsbart tätskikt som skulle kunna användas. Det heter Kiilto Keramix.<br />
 					
 					6) Fyll i offertmallen så gör vi en detaljerad offert till Er.<br />
-					http://www.kakelplattan.se/index.php?menu=offert
+					https://www.kakelplattan.se/index.php?menu=offert
 				
 				</div>
 			</div>    
@@ -538,7 +538,7 @@
 					Vid golvbrunnen så brukar vi rekommendera byggspackel som inte är flytande för att få bra resultat. <br />
 					Är det ett badrum?<br />
 					Fyll gärna i offertmallen så gör vi en detaljerad offert till dig på flytspackel och tätskikt.<br />
-					http://www.kakelplattan.se/index.php?menu=offert
+					https://www.kakelplattan.se/index.php?menu=offert
 				</div>
 			</div>    
 		</div>
@@ -699,7 +699,7 @@
 				<div class="card-body">
 					Hej Magnus<br />
 					Mycket bra tänkt och detta förespråkar vi ofta. <br />
-					Barriären kallas avstängningslist http://www.kakelplattan.se/index.php?menu=produkt&id=7350020480096, se filmerna om detta.<br />
+					Barriären kallas avstängningslist https://www.kakelplattan.se/index.php?menu=produkt&id=7350020480096, se filmerna om detta.<br />
 					Dela upp rummet i flera fyrkanter och flytspackla när du hinner. <br />
 					Första gången är det lättare att ha en mindre så du lär känna hur flytspacklet funger osv. <br />
 					Tänk på att fästprima bara den yta du ska göra, fästprimern slutar att verka efter 24 timmar.
@@ -763,7 +763,7 @@
 			<div id="collapse78" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Marcus<br />
-					Svar ja (på vissa flytspackelsorter ex Plan Rapid<br /> http://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257), <br />
+					Svar ja (på vissa flytspackelsorter ex Plan Rapid<br /> https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257), <br />
 					men du behöver armeringsnät och följande nivåer på flytspacklet:<br />
 					x) Utan golvvärme –>13 mm.<br />
 					x) Med elektrisk golvvärme –>15 mm.<br />
@@ -856,10 +856,10 @@
 				<div class="card-body">
 					Hej John<br />
 					Vi har exempelvis Plan Rapid 25 kg.<br />
-					http://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
+					https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
 					Se filmer och beskrivningar på<br />
-					http://www.kakelplattan.se/index.php?menu=flytspackel &<br />
-					http://www.kakelplattan.se/index.php?menu=flytspackel1
+					https://www.kakelplattan.se/index.php?menu=flytspackel &<br />
+					https://www.kakelplattan.se/index.php?menu=flytspackel1
 				</div>
 			</div>    
 		</div>
@@ -1010,7 +1010,7 @@
 					Höjden på flytspacklet är minimum 30 mm eller 15 mm ovanför slangen.<br />
 					I ditt fall är det 5 mm armeringsnät + 10 mm slang + 15 mm ovanför slangen = 30 mm (vilket även är minimum).<br />
 					 
-					Detta kräver även fiberarmerat flytspackel som ex <br /> http://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
+					Detta kräver även fiberarmerat flytspackel som ex <br /> https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
 					Tänk på att träspånten måste vara tät så flytspacklet inte rinner emellan.
 				</div>
 			</div>    
@@ -1027,7 +1027,7 @@
 				<div class="card-body">
 					Hej Peter.<br />
 					Vi har flytspackel som går ner mot 2 mm men det billigaste som de flesta använder är minimum 5 mm.<br />
-					http://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
+					https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
 					Tänk på att du måste ha något slitlager ovanför.
 				</div>
 			</div>    
@@ -1199,7 +1199,7 @@
 					Är det lite fuktigt så kolla att flytspacklet tål detta. <br />
 					Istället för fästprimer så ta fix som du skrapar ut på golvet.<br /> 
 					Fixen bildar en häftbrygga mellan betongen och flytspacklet. Ett bra flytspackel är Plan Rapid. Se länk <br />
-					http://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257
+					https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257
 				</div>
 			</div>    
 		</div>
@@ -1305,7 +1305,7 @@
 					Armeringsnät har du när det är spånskivegolv. <br />
 					Har du betong så slipper du ha armeringsnät.<br /> 
 					Fyll gärna i offertmallen så kan vi ge dig en detaljerad offert på ditt badrum, vi har Kiilto tätskikt också!<br />
-					http://www.kakelplattan.se/index.php?menu=offert
+					https://www.kakelplattan.se/index.php?menu=offert
 				</div>
 			</div>    
 		</div>
@@ -1461,13 +1461,13 @@
 			<div id="collapse43" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Katarina <br />
-					Du kan flytspackla med vissa sorters flytspackel direkt på spånskiva, exempel på detta är<br /> http://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257. <br />
-					Det man också behöver är armeringsnät,<br /> http://www.kakelplattan.se/index.php?menu=produkt&id=7391142089125. <br />
+					Du kan flytspackla med vissa sorters flytspackel direkt på spånskiva, exempel på detta är<br /> https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257. <br />
+					Det man också behöver är armeringsnät,<br /> https://www.kakelplattan.se/index.php?menu=produkt&id=7391142089125. <br />
 					OBS att regelavståndet måste var tätt, helst 30 cm centrumavstånd och skivkonstruktionen böjstyvhet på golv ska minst motsvara en 22 mm golvspånskiva upplagd på stöd.<br /> 
 					Det finns tyvärr vissa husbyggare som har så dåliga konstruktion så att det inte går att lägga flytspackel! <br />
 					Fråga husbyggaren vad som gäller för ditt hus.<br />
 					Fyll gärna i offertmallen så gör vi beräkningar på flytspackel, tätskikt och övrigt material som du behöver till ditt badrum.<br />
-					http://www.kakelplattan.se/index.php?menu=offert
+					https://www.kakelplattan.se/index.php?menu=offert
 				</div>
 			</div>    
 		</div>	
@@ -1754,7 +1754,7 @@
 					Sen ska armeringsnät läggas ut (omlott) och sen fiberarmerat flytspackel, exempelvis Kiilto Plan Rapid. <br />
 					Min 30 mm flytspackel. Det är viktigt att du kollar tillverkarens rekommendationer men oftast är det som vi har skrivit. <br />
 					Ring oss gärna på 054-18 81 80 (support fram till 21 varje dag även helg)  så går vi igenom allt och vill du ha en offert på detta så fyll i vår offertmall.<br />
-					http://www.kakelplattan.se/index.php?menu=offert
+					https://www.kakelplattan.se/index.php?menu=offert
 				</div>
 			</div>    
 		</div>
@@ -1822,7 +1822,7 @@
 					Hej igen. <br />
 					Det fungerar med färg som är gjord för golv. Nu vet vi inget om din 2k epoxy, men det låter som en kraftig golvfärg. 
 					Du kan givetvis använda granitkeramik som är för garagegolv och som är starkare än vanlig klinkers. <br />
-					Se vårt exempel på granitkeramik här. <br />http://www.kakelplattan.se/index.php?menu=granitkeramik
+					Se vårt exempel på granitkeramik här. <br />https://www.kakelplattan.se/index.php?menu=granitkeramik
 				</div>
 			</div>    
 		</div>
@@ -1928,7 +1928,7 @@
 					Flytspackel som inte tål frost kan inte användas om det blir minusgrader, fukten i spacklet expanderar och flytspacklet spricker. <br />
 					Är det i källaren och du inte har minusgrader så fungerar de flesta flytspackel. <br />
 					Det du kan kolla är att flytspacklet ska tåla tillskjutande fukt. <br />
-					Vi har ett flytspackel som är mycket lämpligt för detta, <br />http://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257 .
+					Vi har ett flytspackel som är mycket lämpligt för detta, <br />https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257 .
 				</div>
 			</div>    
 		</div>
@@ -2246,7 +2246,7 @@
 					1) Fästprimer. <br />
 					2) Armeringsnät som oftast läggs under slangen men eftersom du har spårade skivor så blir armeringsnätet ovan slangen. <br />
 					3) Flytspackel 30 mm. <br />
-					Vill du ha en detaljerad offert så gå in på http://www.kakelplattan.se/index.php?menu=offert och fyll i så mycket som möjligt. <br />
+					Vill du ha en detaljerad offert så gå in på https://www.kakelplattan.se/index.php?menu=offert och fyll i så mycket som möjligt. <br />
 					Med vänlig hälsning Kakelplattan AB.
 				</div>
 			</div>    
