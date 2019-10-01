@@ -1,7 +1,9 @@
+$primary: #245733 !important
+
 /* styr menyns färger */
 
 .navbar
-  background-color: #245733
+  background-color: $primary
   border: 2px double #a4b78c
   li
     color: #fff !important
@@ -11,7 +13,7 @@
         color: black !important
 
 .dropdown li, .dropdown-item
-  background-color: #245733 !important
+  background-color: $primary !important
 
 /* färgen på allt */
 
@@ -22,7 +24,7 @@ body
   font-family: 'Verdana', 'Arial' !important
 
 .green
-  background-color: #245733 !important
+  background-color: $primary !important
   border: 2px double #a4b78c !important
   color: #000 !important
 
@@ -33,7 +35,7 @@ body
   color: #000
 
 .bg-primary
-  background-color: #245733 !important
+  background-color: $primary !important
   color: #fff
 
 .panel
@@ -118,7 +120,7 @@ p.offert-a
  *	Styr färgerna. */
 
 h4.offert-h4-a, h5.offert-h5-a, p.offert-p-a
-  color: #245733 !important
+  color: $primary !important
   text-align: center !important
   white-space: wrap
   width: 100%
@@ -135,25 +137,25 @@ h4.offert-h4-a, h5.offert-h5-a, p.offert-p-a
 
 .btn-primary:hover
   background-color: #a4b78c !important
-  border: 2px double #245733 !important
+  border: 2px double $primary !important
   color: #000 !important
 
 .btn-outline-primary
-  background-color: #245733 !important
+  background-color: $primary !important
   border: 2px double #a4b78c !important
   color: #fff !important
   &:hover
     background-color: #a4b78c !important
-    border: 2px double #245733 !important
+    border: 2px double $primary !important
     color: #000 !important
 
 header.row
-  background-color: #245733 !important
+  background-color: $primary !important
   color: white
   text-align: left
 
 .col-xs-4-logo
-  background-color: #245733
+  background-color: $primary
   color: white
   text-align: left
 
@@ -178,7 +180,7 @@ a
     text-align: left
 
 /* padding: 14px 25px;
-/*---Media Queries 
+/*---Media Queries
 // @media (max-width: 992px)
 //
 // @media (max-width: 768px)
@@ -228,3 +230,8 @@ figure
 
 [class*="col-"]
   padding: 1rem
+
+.card > .card-header > .card-link a
+    color: black !important
+    &:visited
+        color: black !important
