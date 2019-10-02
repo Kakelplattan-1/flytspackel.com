@@ -68,4 +68,6 @@
         </div>
     </section>
 
+    <?php include 'include/support.php'; ?>
+
 <?php include 'include/footer.php'; ?>
