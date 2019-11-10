@@ -1,10 +1,11 @@
-<?php include 'include/topp.php';?>	
-<!-- Frågo -->	
-<div class="container">
+<?php include 'include/head.php'; ?>
+<?php include 'include/navbar.php'; ?>
+
+<section class="container faq">
 	<h1>Frågor om flytspackel - FAQ</h1>
 		<p>
-			Fråga om flytspackel här och vi svarar inom 24 timmar OM ni lägger med e-posten. 
-			Ditt fullständiga namn och e-post kommer inte att synas. 
+			Fråga om flytspackel här och vi svarar inom 24 timmar OM ni lägger med e-posten.
+			Ditt fullständiga namn och e-post kommer inte att synas.
 			Har Ni inte med E-post kommer vi inte att svara!
 		</p>
 	<div id="accordion">
@@ -12,18 +13,18 @@
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse110">
 					<div class="row">
-						<div class="col-1">2019<br />18 maj</div>
-						<div class="col-10">
+						<div class="col-md-1">2019<br />18 maj</div>
+						<div class="col-md-10">
 							Hej!<br />
-							Jag har ett 60-talsgarage som jag försöker fixa till. 
-							Just nu är det asfaltsgolv. Garaget fungerar mest som förråd. 
-							Jag har isolerat väggarna då jag vill ha frostfritt där inne. Vad rekommenderar ni att göra med golvet? 
-							Jag vill ha ett jämnt, slitstarkt och lättstädat golv. 
+							Jag har ett 60-talsgarage som jag försöker fixa till.
+							Just nu är det asfaltsgolv. Garaget fungerar mest som förråd.
+							Jag har isolerat väggarna då jag vill ha frostfritt där inne. Vad rekommenderar ni att göra med golvet?
+							Jag vill ha ett jämnt, slitstarkt och lättstädat golv.
 							<br />
 							Med vänlig hälsning, Andreas
 						</div>
-						<div class="col-1">Klicka<br /> för<br /> svaret!</div>
-					 </div>										
+						<div class="col-md-1">Klicka<br /> för<br /> svaret!</div>
+					 </div>
 				 </a>
 			</div>
 			<div id="collapse110" class="collapse show" data-parent="#accordion">
@@ -32,25 +33,25 @@
 					Det finns inga spackelprodukter som fäster i oja/asfalt. Kan du ta bort detta så kan man flytspackla.
 					</a>
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse109">
 					<div class="row">
-						<div class="col-1">2019<br />18 maj</div>
-						<div class="col-10">
+						<div class="col-md-1">2019<br />18 maj</div>
+						<div class="col-md-10">
 							Hej!<br />
 							Vi renoverar vårt hus. Vi har träbjälklag med 22 mm spånskiva i det som ska bli golv och kök. <br />
 							På det ska vi lägga golvvärme. Ovanpå det ska vi naturligtvis flytspackla. <br />
 							Vi tänkte först lägga linoleum, men funderar på att låta flytspacklet vara synligt, så att det blir en rå betongyta. <br />
-							Hur tjockt behöver vi flytspackla över golvvärmen och hur behandlar vi ytan bäst för att det inte ska bli fläckigt?<br /> 
-							Fungerar det eller är det en dum idé? 
+							Hur tjockt behöver vi flytspackla över golvvärmen och hur behandlar vi ytan bäst för att det inte ska bli fläckigt?<br />
+							Fungerar det eller är det en dum idé?
 							<br />
-							Mvh Märta 
+							Mvh Märta
 						</div>
-						<div class="col-1">Klicka<br /> för<br /> svaret!</div>
-					 </div>										
+						<div class="col-md-1">Klicka<br /> för<br /> svaret!</div>
+					 </div>
 				 </a>
 			</div>
 			<div id="collapse109" class="collapse" data-parent="#accordion">
@@ -63,25 +64,25 @@
 					Vill du så gör vi en detaljerad offert på hur mycket flytspackel du behöver! Fyll i offertmallen, klicka här!<br />
 					</a>
 				</div>
-			</div>    
+			</div>
 		</div>
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse109">
-					1 mars 2019 Hej ! Jag har en fråga ang flytspackel i duch och bastu. 
+					1 mars 2019 Hej ! Jag har en fråga ang flytspackel i duch och bastu.
 					Jag har en fullt fungerande FUL korkmatta på golvet,, kan jag hälla flytmassa på den för att sedan lägga värmekablar och golvflis på det ?
 					<br />Tacksam för svar Med vänlig hälsning Åsa
 				 </a>
 			</div>
 			<div id="collapse109" class="collapse" data-parent="#accordion">
 				<div class="card-body">
-					Hej Åsa.<br /> 
-					Flytspackel får inte ligga i ständig fukt och kabeln får inte ligga i fukt! 
-					Om du sen lägger flytspackel ovanpå korkmattan, sen lägger tätskikt ovanpå detta så kommer mellanskiktet att mögla. 
+					Hej Åsa.<br />
+					Flytspackel får inte ligga i ständig fukt och kabeln får inte ligga i fukt!
+					Om du sen lägger flytspackel ovanpå korkmattan, sen lägger tätskikt ovanpå detta så kommer mellanskiktet att mögla.
 					Bort med korkmattan.
 				</div>
-			</div>    
-		</div>		
+			</div>
+		</div>
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse108">
@@ -95,12 +96,12 @@
 			<div id="collapse108" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Eddie<br />
-					Är det stabilt underlag som motsvarar en 22 mm spånskiva = stumt och ingen svikt så är det bara att flytspackla med armeringsnät. 
+					Är det stabilt underlag som motsvarar en 22 mm spånskiva = stumt och ingen svikt så är det bara att flytspackla med armeringsnät.
 					Gipsen hjälper inte till om inte det är svårt att flytspackla på eventuella plåtar.
 					Det bör räcka med flytspackel.
 					Det är ingen fördelningsplåt på golvet alltså, då hjälper inte gipsen till.
 				</div>
-			</div>    
+			</div>
 		</div>
 		<div class="card">
 			<div class="card-header">
@@ -117,7 +118,7 @@
 					1) Se nu till att det blir rätt, ut med vattenpass och kontrollera noggrant! <br />
 					2) Ja, om det är mindre fel så går det.
 				</div>
-			</div>    
+			</div>
 		</div>
 		<div class="card">
 			<div class="card-header">
@@ -132,9 +133,9 @@
 				<div class="card-body">
 					Hej Jenny<br />
 					1) Han ska alltså flytspackla en gång till?<br />
-					2) Det får han inte göra, fallet ska vara klart innan tätskiktningen. Om han gör det med fix så kommer vattnet under fixen att inte rinna ner i golvbrunnen. 
+					2) Det får han inte göra, fallet ska vara klart innan tätskiktningen. Om han gör det med fix så kommer vattnet under fixen att inte rinna ner i golvbrunnen.
 				</div>
-			</div>    
+			</div>
 		</div>
 		<div class="card">
 			<div class="card-header">
@@ -153,34 +154,34 @@
 					3) Ännu värre, ta bort allt eller lägg på ny trall.<br />
 					4) Tyvärr så är det negativt svar.
 				</div>
-			</div>    
-		</div>		
+			</div>
+		</div>
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse104">
 					11 sept 2018
 					1) Hej 4 frågor Håller på att renovera en källare på ca 30 kvm och nu är bara golvet kvar. <br />
-					Golvet är en betongplatta troligen oisolerad, huset är byggt 1952 Fick tipset från kilto om att inte använda primer på 
-					betongplattan för då låser man in fukten som kommer underifrån från plattan. Och för att betongplattan inte skall suga åt 
+					Golvet är en betongplatta troligen oisolerad, huset är byggt 1952 Fick tipset från kilto om att inte använda primer på
+					betongplattan för då låser man in fukten som kommer underifrån från plattan. Och för att betongplattan inte skall suga åt
 					sig vattnet i spacklet skulle jag bredspackla på ett tunt lager med kakelfix. <br />
 					stämmer detta
 					<br />
 					2) och bör jag lägga nån form av armering,
-					
+
 					3) det är en nivåskillnad på ca 21mm. <br />
 					Tänkte flyta detta i omgångar med avstängningslist då jag aldrig flytspacklat förut.
-					
+
 					4) Skulle ni rekommendera att man börjar i den änden där spacklet blir tjockast eller den ände där den blir tunnast, spelar kanske ingen roll?<br />
-					
+
 					5) 1. primer: ja eller nej<br />
-					
+
 					6) 2. bredpackla med fix 3.<br />
-					
+
 					7) armering 4.<br />
-					
+
 					8) börja i vilken ände av rummet?<br />
-					
-					9) Med vänlig hälsning Tomas 
+
+					9) Med vänlig hälsning Tomas
 				 </a>
 			</div>
 			<div id="collapse104" class="collapse" data-parent="#accordion">
@@ -196,51 +197,51 @@
 					8) Ta den längst bort. Du kan flytspackla lager på varandra också!<br />
 					9) Vi skulle använda Kiilto Plan Rapid 25 kg till detta rum. https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257
 				</div>
-			</div>    
+			</div>
 		</div>
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse103">
 					24 Juli 2018
-					1) Hej! Vi tänkte lägga klinker på en balkong med boyta under.<br /> 
-					Taket är råspont samt papp på det. 
-					Vi har varje sommar rullat ut vanligt konstgräs på det. 
+					1) Hej! Vi tänkte lägga klinker på en balkong med boyta under.<br />
+					Taket är råspont samt papp på det.
+					Vi har varje sommar rullat ut vanligt konstgräs på det.
 					Vad vi tänkte nu är att riva bort pappen samt flytspackla direkt på råsponten för att fixa ett bättre fall ut från väggen samt få ett bra underlag för att lägga klinker på.
-					
+
 					2) Frågan är som sagt om detta är möjligt med flytspackel direkt på råsponten <br />
-					
+
 					3) och i så fall vilken typ av flytspackel (gärna förslag på fabrikat o typ)<br />
-					
+
 					4) samt även om då råsponten skall primas först (fabrikat o typ).<br />
-					
+
 					5) Om detta fungerar tänkte vi använda någon form av tätskikt uppe på flytspacklet innan klinkern osv.<br />
-					
+
 					6) Tack på förhand för svar! Med vänlig hälsning, Per
 				 </a>
 			</div>
 			<div id="collapse103" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Per<br />
-					1) Motfråga från oss är om det är täkt balkong eller om regn och snö kan komma in? 
+					1) Motfråga från oss är om det är täkt balkong eller om regn och snö kan komma in?
 					Om regn och snö kan komma in så måste ni ha frostsäkert spackel. <br />
-					
-					2) Ja. Det kräver vissa saker. Det ska inte vara svikt i underlaget. 
-					Flytspacklet ska inte kunna rinna emellan. 
+
+					2) Ja. Det kräver vissa saker. Det ska inte vara svikt i underlaget.
+					Flytspacklet ska inte kunna rinna emellan.
 					Ni ska även ha armeringsnät på och minst 12 mm fiberarmerat flytspackel (om det inte är svikt och regnet kan komma in).<br />
-					
+
 					3) Vi säljer Kiilto och har de här 2 produkterna som kan passa.<br />
 					https://www.kakelplattan.se/index.php?menu=produkt&id=6411512001203<br />
 					https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
-					
+
 					4) Du ska följa märket här och använda startprimer.<br />
-					
+
 					5) Vi har ett andringsbart tätskikt som skulle kunna användas. Det heter Kiilto Keramix.<br />
-					
+
 					6) Fyll i offertmallen så gör vi en detaljerad offert till Er.<br />
 					https://www.kakelplattan.se/index.php?menu=offert
-				
+
 				</div>
-			</div>    
+			</div>
 		</div>
 		<div class="card">
 			<div class="card-header">
@@ -256,25 +257,25 @@
 					1) Vi brukar säga 1 cm per dygn = vänta en dag.<br />
 					2) Det är härdare som skiljer sig och en del får du vänta längre tid på. Vi har exempelvis Kiilto Plan Rapid och då är det 1 dygn.
 				</div>
-			</div>    
+			</div>
 		</div>
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse101">
 					5 Juli 2018
-					
-					1) Hej. Jag håller på att bygga in farstukvisten till att bli en hall i huset. 
-					Mått ca 2,5 m bred, 1,7 m djup. Farstun (hallen) står på plintar och har 220-reglar med 60cc. 
-					Fuktstabil 22mm spån limmad på reglarna. På spånet har jag limmat golvgips med Ardex s48. 
-					På gipset ska jag lägga elektrisk golvvärme, som ska gjutas in i flytspackel. 
+
+					1) Hej. Jag håller på att bygga in farstukvisten till att bli en hall i huset.
+					Mått ca 2,5 m bred, 1,7 m djup. Farstun (hallen) står på plintar och har 220-reglar med 60cc.
+					Fuktstabil 22mm spån limmad på reglarna. På spånet har jag limmat golvgips med Ardex s48.
+					På gipset ska jag lägga elektrisk golvvärme, som ska gjutas in i flytspackel.
 					Spacklet kommer att bli ca 30 mm högt,<br />
-					
-					2) för att sedan fix+klinkern ska komma upp till husets golvnivå. 
-					Jag tänkte prima på gipset och limma dit värmekabeln med smältlim. 
+
+					2) för att sedan fix+klinkern ska komma upp till husets golvnivå.
+					Jag tänkte prima på gipset och limma dit värmekabeln med smältlim.
 					Min fråga är: Behöver jag armeringsnät på gipset, under kabeln,<br />
-					
+
 					3) eller kan jag räkna det limmade gipset som att det är ett lika formstabilt underlag för flytspacklet som betong?<br />
-					
+
 					Tack på förhand. /Tomas
 				 </a>
 			</div>
@@ -285,13 +286,13 @@
 					2) Ja.<br />
 					3) Nej. Gips är för svagt.
 				</div>
-			</div>    
+			</div>
 		</div>
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse100">
 					26 Juni 2018
-					Hej! <br />Har ett äldre hus med trägolv. Ska lägga träparkett genom två rum på vardera 3,6*3,6 m och behöver jämna av till samma nivå.<br /> 
+					Hej! <br />Har ett äldre hus med trägolv. Ska lägga träparkett genom två rum på vardera 3,6*3,6 m och behöver jämna av till samma nivå.<br />
 					Golvet är 1.5 cm lägre i mitten av båda rummen Vad ska man använda?
 				 </a>
 			</div>
@@ -303,7 +304,7 @@
 					Om vi lägger oss vid 20 mm i genomsnitt så blir offerten som bifogad pdf-fil. <br />
 					OBS att vi behöver prostnummer om du vill ha med frakt.
 				</div>
-			</div>    
+			</div>
 		</div>
 		<div class="card">
 			<div class="card-header">
@@ -319,13 +320,13 @@
 					Hej Emelie<br />
 					Nej, flytspackel kan inte vara ett topplager. <br />
 					Det måste vara något ovanpå som skyddar flytspacklet. <br />
-					Risken är att flytspacklet kommer att spricka och lossna samt att det blir aldrig fast yta.<br /> 
+					Risken är att flytspacklet kommer att spricka och lossna samt att det blir aldrig fast yta.<br />
 					Det kommer att bli sandigt. Det finns flytspackel som topplager men är onödigt dyra. <br />
-					Det går att lägga på klinker men risken är att plattorna kan släppa (flytspacklet följer med och det blir bomljud =  svagt) 
+					Det går att lägga på klinker men risken är att plattorna kan släppa (flytspacklet följer med och det blir bomljud =  svagt)
 					eller att flytspacklet inte greppar tag i klinkern.
 				</div>
-			</div>    
-		</div>		
+			</div>
+		</div>
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse98">
@@ -339,18 +340,18 @@
 					Hej Lena<br />
 					Nej, undvik detta. <br />Härdningen kan påverkas och flytspacklet kommer inte att stelna. Oftast blir den skinnliknande massa.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse97">
 					4 April 2018
-					Hej! <br />Har fått hjälp av hantverkare att flytspackla delar av ett golv som det sedan ska läggas laminat på.<br /> 
-					Visar sig nu att golvet ändå lutar ner mot ett hörn med en höjdskillnad på 1,3 cm från högsta och lägsta punkt på 1 m längd. 
+					Hej! <br />Har fått hjälp av hantverkare att flytspackla delar av ett golv som det sedan ska läggas laminat på.<br />
+					Visar sig nu att golvet ändå lutar ner mot ett hörn med en höjdskillnad på 1,3 cm från högsta och lägsta punkt på 1 m längd.
 					Så nu undrar jag om man kan flytspackla ytterligare en gång i hörnet för att minska lutningen? <br />
 					Alltså flytspackla igen? När i tid är det isåfall möjligt efter första flytspacklingen? <br />
-					Mvh 
+					Mvh
 					Anna
 				 </a>
 			</div>
@@ -362,7 +363,7 @@
 					De här råden gäller Kiiltos produkter och är oftast likvärdiga andra tillverkare.<br />
 					Du bör fråga hantverkaren varför han inte gjorde ett bra jobb och han bör göra rätt för sig!
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -385,13 +386,13 @@
 					När man har flytspacklat så ska man lägga på nästa lager (klinker/granitkeramik/laminat/plastmatta) inom några dagar.<br />
 					Knacka på flytspacklet och se om det låter ihåligt. Är det ihåligt så kan flytspacklet ha lossat.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse95">
-					5 Feb 2018 
+					5 Feb 2018
 					Jag kommer lägga cirka 15 elrör i plast, fastsatta mot ett betonggolv. <br />
 					Rören är i varierande storlek, 16 och 20mm. <br />
 					Rören läggs plant, mot varandra och överspcklas med 6 cm flytspackel. <br />
@@ -404,14 +405,14 @@
 					Tar du Kiilto Plan Rapid eller Kiilto Rot och Värme samt armeringsnät så blir det inte bom. <br />
 					Tänk på att gjuta i 2 omgångar. Båda klarar 50 mm per gjutning.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse94">
-					26 Jan 2018 
-					Har hus från 60-talet, betongvalv (plan 2).<br /> 
+					26 Jan 2018
+					Har hus från 60-talet, betongvalv (plan 2).<br />
 					Behöver flytspackla ojämnheter innan parkettläggning. <br />
 					Innan verkar man ha använt gipsspackel. Går det att spackla på detta?
 				 </a>
@@ -423,15 +424,15 @@
 					Sedan är det inte bra att blanda gipsbaserat med cementbaserat. <br />
 					Vi säljer inte gipsspackel pga. att vid kontakt med vatten så löses spacklet upp.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse93">
-					29 Nov 2017 
+					29 Nov 2017
 					Lise skrev 2 brev till oss men glömde i båda breven att ange e-postadressen!<br /><br />
-					 
+
 					Det är svårt att svara utan någon e-post och vi vill ibland ha kompletterande svar från frågeställaren. Därför kräver vi e-post.<br />
 					Många gånger är det samma svar som vi anger och därför skriver vi inte alltid svaren här men vi brukar svara på e-post.
 				 </a>
@@ -440,23 +441,23 @@
 				<div class="card-body">
 					Lise, om du läser detta, skicka oss din e-post till info@kakelplattan.se
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse92">
-					25 Nov 2017 
+					25 Nov 2017
 					1) Hej, Håller på och gör i ordning ett 9m2 hallgolv där 25mm golvtegel skall läggas.
 					22mm golvspån, reglat c/c 30cm, primat, därefter lagt ut 4mm elslinga och nu täckt med flytspackel ca 10mm.<br />
-					
-					2) Men nu efter 36tim har det ännu inte torkat/härdat överallt. 
+
+					2) Men nu efter 36tim har det ännu inte torkat/härdat överallt.
 					Har upptäckt att utgångsdatumet på spacklet är överskridet med ca 3mån!!<br />
-					
+
 					3)(Fabrikat Hey’di Betongplan) Har använt 5 påsar/satser där man nu ser att två satser härdat men tre fortfarande är blöta.<br />
-					
+
 					4) Är sannolikheten stor att det som fortfarande är blött inte kommer att härda och få tillräcklig hållfasthet? <br />
-					
+
 					5) Bara att börja om igen? <br />
 					mvh Björn
 				 </a>
@@ -464,29 +465,29 @@
 			<div id="collapse92" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Björn<br />
-					1) Tänk på att golvtegel är porigt material. 10 mm bara, har du kollat vad som krävs eller ? 
-					Har du inget armeringsnät! Gjorde en snabb goggling och fick fram att det är 15 mm och armeringsnät. 
+					1) Tänk på att golvtegel är porigt material. 10 mm bara, har du kollat vad som krävs eller ?
+					Har du inget armeringsnät! Gjorde en snabb goggling och fick fram att det är 15 mm och armeringsnät.
 					http://www.heydi.se/produkt.asp?VdaID=157<br />
-					
-					2) Var påsarna öppna och har du ställt dem direkt på betonggolv. 
+
+					2) Var påsarna öppna och har du ställt dem direkt på betonggolv.
 					Fukten kan ta sig in i säckarna. Du tar en stor chansning med att ta gammalt flytspackel.<br />
-					
-					3) Har du tur så börjar det härda till men gammalt flytspackel blir svagare, härdningen har börjat i säcken. 
+
+					3) Har du tur så börjar det härda till men gammalt flytspackel blir svagare, härdningen har börjat i säcken.
 					Var det kulor överst i säcken?<br />
-					
+
 					4) Ja.<br />
-					
-					5) Du har för lite med flytspackel, det är gammalt, du har inte armeringsjärn och har du använt behörig elektriker? 
-					Mycket fel, känns det som. 
+
+					5) Du har för lite med flytspackel, det är gammalt, du har inte armeringsjärn och har du använt behörig elektriker?
+					Mycket fel, känns det som.
 					Fuska inte, ogjort arbete och dyrt material till spillo.<br />
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse91">
-					12 Nov 2017 
+					12 Nov 2017
 					Kan man lägga flytspackel på ett balkonggolv som är målat ned betongfärg.
 				 </a>
 			</div>
@@ -497,13 +498,13 @@
 					Du tar en risk om du inte slipar bort färgen. <br />
 					Fästprimer kommer inte att öka fasthållningen utan kan påskynda lossandet.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse90">
-					9 Okt 2017 
+					9 Okt 2017
 					Hej. Om man måste flytspackla i omgångar ska man då prima innan man lägger oå nytt? <br />
 					Lika så när man lägger klinker? <br />
 					Jag har inte fått riktigt 13 mm på mitt spånskivegolv men har armering. <br />
@@ -521,34 +522,34 @@
 					>Jag har inte fått riktigt 13 mm på mitt spånskivegolv men har armering. Måste öka ca 3-5 mm.<br />
 					Här bör du ha fästprimer.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse89">
-					27 Sept 2017 
-					Jag söker flytspacklet man blandar i en viss mängd röd mängd vätska så får man en viss lutning på spacklet det hade vi på 80-talet. 
+					27 Sept 2017
+					Jag söker flytspacklet man blandar i en viss mängd röd mängd vätska så får man en viss lutning på spacklet det hade vi på 80-talet.
 				 </a>
 			</div>
 			<div id="collapse89" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Lars<br />
-					Aldrig hört talas om. För att få en bra lutning till golvbrunnen så dela upp ytan i mindre delar och flytspackla del för del. 
+					Aldrig hört talas om. För att få en bra lutning till golvbrunnen så dela upp ytan i mindre delar och flytspackla del för del.
 					Vid golvbrunnen så brukar vi rekommendera byggspackel som inte är flytande för att få bra resultat. <br />
 					Är det ett badrum?<br />
 					Fyll gärna i offertmallen så gör vi en detaljerad offert till dig på flytspackel och tätskikt.<br />
 					https://www.kakelplattan.se/index.php?menu=offert
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse88">
-					16 Juli 2017 
+					16 Juli 2017
 					Hej, hur ojämn kan en betongyta vara när man ska flytspacklet? <br />
-					Anders 
+					Anders
 				 </a>
 			</div>
 			<div id="collapse88" class="collapse" data-parent="#accordion">
@@ -557,13 +558,13 @@
 					I stort sett hur ojämn som helst, det är ju det som flytspacklet ska åtgärda. <br />
 					Är det stora nivåskillnader så får du flytspackla ovanpå, i omgångar.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse87">
-					8 Juli 2017 
+					8 Juli 2017
 					Hej! <br />Vi bygger en friggebod på landet (västkusten). I ett rum på ca. 2 kvadratmeter med mulltoa vill vi ha klinker på golvet. <br />
 					Golvet är 20 mm furu (obehandlad) på reglar 50 cc. Ett par sprickor 2-3 mm, Det blir inte uppvärmt på vintern. <br />
 					Från svar på frågor här tror jag att vi kan använda flytspackel mellan furugolvet och klinker. <br />
@@ -588,13 +589,13 @@
 					>Vilken tjocklek på flytspacklet?<br />
 					12 mm, 15 mm eller 30 mm och uppåt. Beror på ev. värmegolv.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse86">
-					17 Maj 2017 
+					17 Maj 2017
 					Hej <br />Jag har gjutit en betongplatta som inte blev så plan som jag ville. <br />
 					Hur länge behöver jag vänta innan jag kan flytspackla på den? <br />
 					Maximala skillnaden är 20mm och det är en 30m2 platta till en pool.<br />
@@ -606,13 +607,13 @@
 					Relativa fuktigheten (RF) ska ligga under 95 %. Det många faktorer som spelar in, tjocklek, kvalitet, omgivning osv. <br />
 					Det brukar ta minst en månad innan det går att göra något.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse85">
-					10 Maj 2017 
+					10 Maj 2017
 					Hejsan, <br />Finns det något sätt att få flytspackel att se ut som polerad betong exempelvis HTC superfloor? <br />
 					Hur gör man i så fall? <br />
 					Hälsningar Emil.
@@ -624,13 +625,13 @@
 					Nej. Flytspackel ska inte användas som ett ytlager utan du måste ha något skyddande skikt ovanför. <br />
 					Ex. är klinker, granitkeramik, färg eller någon typ av parkett.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse84">
-					2 Maj 2017 
+					2 Maj 2017
 					Jag ska flytspackla på ett gammalt golv som till större delen består av svart skiffer. <br />
 					Är skiffer starkt sugande? Hur ska man blanda primern? <br />//Leonard.
 				 </a>
@@ -642,13 +643,13 @@
 					Om sugande så ska de inte blandas så mycket med vatten!<br />
 					Kolla också med leverantören vad som gäller på skiffer.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse83">
-					15 April 2017 
+					15 April 2017
 					hur mycket flytspackel går det åt ungefär 8 kvadrat skall lägga vatten buren värme.<br />
 				 </a>
 			</div>
@@ -658,19 +659,19 @@
 					Det beror på slangens tjocklek och vilket underlag du har. <br />
 					När Ni skriver lite så blir svaret därefter!
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse82">
-					4 Feb 2017 
+					4 Feb 2017
 					Hej <br />Jag har ett källarbetonggolv. <br />
 					Man har sågat upp betonggolvet lite här och där. <br />
 					Nya avloppsrör är lagda där betonggolvet är uppsågat. <br />
 					För ca 10 veckor sedan gjöt man igen golvet. <br />
 					Det har blivit ojämnt. <br />
-					Min fråga går det att flyta på betong golvet och sedan använda det att gå på eller måste det vara ren betong eller finns det något som kan flyttas och är tillräckligt hårt för att gå på. 
+					Min fråga går det att flyta på betong golvet och sedan använda det att gå på eller måste det vara ren betong eller finns det något som kan flyttas och är tillräckligt hårt för att gå på.
 					<br />Jag räknar med ca 15-20 mm för att jämna av. Tacksam för svar. <br />
 					Hälsningar Gunnar.
 				 </a>
@@ -682,17 +683,17 @@
 					Det kan vara färg, klinker / granitkeramik, laminat eller parkett. <br />
 					Det blir sandigt om du bara har flytspackel och det kommer att spricka.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse81">
-					15 Jan 2017 
+					15 Jan 2017
 					Hej, <br />Jag skulle behöva flytspackla ett större utrymme men har inte möjlighet eller resurser att spackla allt vid samma tillfälle. <br />
 					Fråga: är det svårt att dela av golvutrymmet med barriär och flytspackla den ena delen först. <br />
 					Sedan flytspackla andra delen och få den till samma nivå som den första? (Skall ligga klinker över hela ytan sedan). <br />
-					/Magnus. 
+					/Magnus.
 				 </a>
 			</div>
 			<div id="collapse81" class="collapse" data-parent="#accordion">
@@ -704,16 +705,16 @@
 					Första gången är det lättare att ha en mindre så du lär känna hur flytspacklet funger osv. <br />
 					Tänk på att fästprima bara den yta du ska göra, fästprimern slutar att verka efter 24 timmar.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse80">
-					13 Nov 2016 
-					Hej, <br />går det att använda silikatbinder som primer innan flytspackling?<br /> 
+					13 Nov 2016
+					Hej, <br />går det att använda silikatbinder som primer innan flytspackling?<br />
 					Jag vill ha ett diffusionsöppet golv då det är dåligt isolerat i källare. <br />
-					Jag skall ha golvvärme med klinker ovanpå.<br /> //kenneth. 
+					Jag skall ha golvvärme med klinker ovanpå.<br /> //kenneth.
 				 </a>
 			</div>
 			<div id="collapse80" class="collapse" data-parent="#accordion">
@@ -724,22 +725,22 @@
 					Fixen bildar en häftbrygga som flytspacklet sen griper tag i. <br />
 					Tänk på att använda flytspackel som tål tillskjutande fukt.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse79">
-					4 Nov 2016 
-					Hej <br />Jag har ett fristående garage som står på en betongplatta.<br /> 
-					Det är osäkert hur gammalt garaget är, men det är inga raka mått på varken väggar eller golv vilket har gjort det mycket besvärligt att renovera.<br /> 
+					4 Nov 2016
+					Hej <br />Jag har ett fristående garage som står på en betongplatta.<br />
+					Det är osäkert hur gammalt garaget är, men det är inga raka mått på varken väggar eller golv vilket har gjort det mycket besvärligt att renovera.<br />
 					Garaget skall bli någorlunda isolerat, men inget värmegarage. <br />
 					Väggarna är av betong där takstolarna vilar på betongen. Anlitade en firma att montera in en garageport. <br />
 					Det skiljde 4 cm från karm till karm, så han fick gjuta en rak tröskel för porten. <br />
 					Golvet lutar klart in mot det hörnet där det är lågt. Kan man flytspackla för att jämna till garagegolvet till en jämn nivå och kan det hålla för bilens tyngd? <br />
 					Annars blir risken stor att vattnet rinner och samlas där från snöslask. <br />
 					Brunn saknas i garaget och planen att bila upp en brunn för snöslask är ett senare projekt. <br />
-					MVH Pontus   
+					MVH Pontus
 				 </a>
 			</div>
 			<div id="collapse79" class="collapse" data-parent="#accordion">
@@ -749,15 +750,15 @@
 					Börja med att göra brunnen istället för att flytspackla i hörnen, <br />
 					när du är klar med brunnen så måste hela ytan höjas och då får du flytspackla hörnet igen.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse78">
-					1 Nov 2016 
+					1 Nov 2016
 					Hej! <br />kan man flytspackla direkt på en spånskiva? <br />
-					Mvh Marcus 
+					Mvh Marcus
 				 </a>
 			</div>
 			<div id="collapse78" class="collapse" data-parent="#accordion">
@@ -769,32 +770,32 @@
 					x) Med elektrisk golvvärme –>15 mm.<br />
 					x) Med vattenburen golvvärme –> 30 mm eller 15 mm ovanför slangen och Ni tar det som blir mest! <br />Exempel, armeringsnät 5 mm + 12 mm slang +15 mm ovanför slangen = 32 mm flytspackel.
 				</div>
-			</div>    
+			</div>
 		</div>
-				
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse77">
-					28 Okt 2016 
+					28 Okt 2016
 					Hej, <br />jag undrar om hur lång tid kan man vänta, efter att ha primat golvet, lagt armeringsnät och värmeslingor, med att lägga flytspackel.? <br />
-					Hls. Christian 
+					Hls. Christian
 				 </a>
 			</div>
 			<div id="collapse77" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Christian<br />
 					Med Kiilto startprimer så är maxtiden 24 timmar. <br />
-					Om du det går längre tid så tappar fästprimern i styrka.<br /> 
+					Om du det går längre tid så tappar fästprimern i styrka.<br />
 					Detta kan variera mellan olika märken, kolla leverantörens instruktioner.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse76">
-					22 Okt 2016 
-					Hej! <br />Vi har ett befintligt badrum men det är fel fall i duschen. 
+					22 Okt 2016
+					Hej! <br />Vi har ett befintligt badrum men det är fel fall i duschen.
 					Kan man flytspackla på befintligt klinkergolv? <br />
 					Vi ser ingen anledning att riva ner kaklet Ingela våtutrymmet då det inte är något fel på det. <br />
 					Mvh Rita.
@@ -803,18 +804,18 @@
 			<div id="collapse76" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Rita<br />
-					Nej, flytspackel klarar inte av att ligga i ständig fukt, golvet kommer att lossa.<br /> 
+					Nej, flytspackel klarar inte av att ligga i ständig fukt, golvet kommer att lossa.<br />
 					Det är ett stort fel på tätskiktet, det rinner åt fel hål! Den som gjorde det ska göra om det. <br />
 					Om någon har sålt huset till Er med bakfall och inte sagt detta har dolt felet och är ansvarig!
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse75">
-					16 Okt 2016 
-					Hej <br />kan man flytspackla ett golv med lutning på ca 75mm från vägg till vägg rummet är 3,9 x 3,5 ?<br /> 
+					16 Okt 2016
+					Hej <br />kan man flytspackla ett golv med lutning på ca 75mm från vägg till vägg rummet är 3,9 x 3,5 ?<br />
 					Hälsningar Jan.
 				 </a>
 			</div>
@@ -823,13 +824,13 @@
 					Hej Jan<br />
 					Du flytspacklar i omgångar, ha fästprimer emellan varje skikt och låt flytspacklet härda innan du flytspacklar en gång till!
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse74">
-					29 Sept 2016 
+					29 Sept 2016
 					Hej. <br />Jag tänkte flytspackla upp golvnivån under en diskbänk ca 1cm eftersom tidigare ägare slutat med klinkers utanför diskbänken jag vill ha samma nivå hela vägen.<br />
 					Min fråga är behöver man nån form av ytskikt på spacklet.
 				 </a>
@@ -840,16 +841,16 @@
 					Svar ja, om inte något skyddar flytspacklet så fortsätter härdningen och torkar ut flytspacklet. <br />
 					Det kan alltså bli väldigt sprött!
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse73">
-					23 Sept 2016 
+					23 Sept 2016
 					Hej, <br />Jag undrar vilka flytspackel som är fukttåliga? <br />
 					Jag har tänkt flytspackla ett källargolv som det kan komma markfukt ur och behöver ett fukttåligt flytspackel. <br />
-					Med vänliga hälsningar John 
+					Med vänliga hälsningar John
 				 </a>
 			</div>
 			<div id="collapse73" class="collapse" data-parent="#accordion">
@@ -861,7 +862,7 @@
 					https://www.kakelplattan.se/index.php?menu=flytspackel &<br />
 					https://www.kakelplattan.se/index.php?menu=flytspackel1
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -872,7 +873,7 @@
 					Golvplankorna är kvar nu som vi tänkte lägga papper på sedan 20mm vattenburen golvvärmeslinga med cc20cm, möjligtvis med golvgips mellan slingorna. <br />
 					Vad tror ni om detta? Vilken sorts spackel och vilken tjocklek över slingan? Håller det? <br />
 					Golvplankorna ligger på grovt bjälklag (250×60 lite varierande(byasåg på 50-talet)) som är ännu korsade med 50×100 <br />
-					Med Vänlig Hälsning Fredrik. 
+					Med Vänlig Hälsning Fredrik.
 				 </a>
 			</div>
 			<div id="collapse72" class="collapse" data-parent="#accordion">
@@ -892,7 +893,7 @@
 					x) Totalt med flytspackel = 5+20+15 = 40 mm.<br />
 					Om det inte är för stora springor i golvet så kan du täta dem med silikon eller liknande.<br />
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -910,14 +911,14 @@
 					Hej Jonas.<br />
 					Ta 22 mm spånskiva, du kommer att få trösklar men det är bättre med trösklar och ett stabilt golv än att det spricker för dig! <br />Chansa inte.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse70">
 					12 juli 2016 <br />
-					Kan man flytspackla direkt på plastmatta om man lägger armeringsnät över plastmattan och sen flyter? 
+					Kan man flytspackla direkt på plastmatta om man lägger armeringsnät över plastmattan och sen flyter?
 				 </a>
 			</div>
 			<div id="collapse70" class="collapse" data-parent="#accordion">
@@ -929,7 +930,7 @@
 					Gör en ansträngning, ta en barkspade eller hyr en mattstrippare och ta bort plastmattan.<br />
 					Fuska inte.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -945,7 +946,7 @@
 					Hej Anders.<br />
 					Nej. Oljan gör att det inte fäster utan det blir skiktat.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -960,7 +961,7 @@
 					Hej Stefan.<br />
 					Nej, det kan lossa och tätskiktet sitter på fel nivå. Tätskikt ska vara ovanför flytspackel.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -990,7 +991,7 @@
 					Tyvärr, riv ut allt och gör om.
 
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1009,11 +1010,11 @@
 					Hej Olof.<br />
 					Höjden på flytspacklet är minimum 30 mm eller 15 mm ovanför slangen.<br />
 					I ditt fall är det 5 mm armeringsnät + 10 mm slang + 15 mm ovanför slangen = 30 mm (vilket även är minimum).<br />
-					 
+
 					Detta kräver även fiberarmerat flytspackel som ex <br /> https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
 					Tänk på att träspånten måste vara tät så flytspacklet inte rinner emellan.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1030,7 +1031,7 @@
 					https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257<br />
 					Tänk på att du måste ha något slitlager ovanför.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1045,9 +1046,9 @@
 			<div id="collapse64" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Elisabeth.<br />
-					Här är det mycket bra att ha flytspackel, om du ska ha klinker eller ett annat topplager ovanpå. 
+					Här är det mycket bra att ha flytspackel, om du ska ha klinker eller ett annat topplager ovanpå.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1064,7 +1065,7 @@
 					Hej Magnus.<br />
 					Ja, flytspackel måste ha något ytskikt. Klinker, målarfärg eller parkett.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1087,7 +1088,7 @@
 					Hej Sofia.<br />
 					Vad har Ni under sandbädden? Det går inte att flytspackla direkt på sand.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1099,7 +1100,7 @@
 					En av offerter a har räknat in att man måste flytsoackla i det gamla köket som ska bli sovrum och i det rummet som ska bli kök. <br />
 					Vi kommer inte ha värmeslingor i golvet. Vi har lagt golv i vår nuvarande lägenhet som är i samma förening och byggt samtidigt som där vi ska renovera nu. <br />
 					Vi har inte behövt flytsoackla golven här. Min fråga är om det är ett måste att flytsoackla nya köket och där köket har stått. <br />
-					Badrum och toalett kan jag förstå.<br /> Tacksam för svar.<br /> / Lisa 
+					Badrum och toalett kan jag förstå.<br /> Tacksam för svar.<br /> / Lisa
 				 </a>
 			</div>
 			<div id="collapse61" class="collapse" data-parent="#accordion">
@@ -1110,7 +1111,7 @@
 					Är underlagen av spånskiva så kan man flytspackla, det är om man ska sätta klinker på golvet. <br />
 					Har du spånskivegolv och det inte sviktar så fungerar även gips.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1120,7 +1121,7 @@
 					Hej. Vi håller på att renovera ett badrum. <br />
 					Vattenrör är dragna, spånskivor lagda för golv och väggar satta. <br />
 					En olycka har orsakat en liten skada på ett vattenrör vilket gör att vi skulle vilja dra om detta. <br />
-					För att slippa göra om allt jobb undrar vi nu om vi skulle kunna fräsa ner vattenröret i spånskivan och sen lägga golvvärme och flytspackla över detta rör? /Ida 
+					För att slippa göra om allt jobb undrar vi nu om vi skulle kunna fräsa ner vattenröret i spånskivan och sen lägga golvvärme och flytspackla över detta rör? /Ida
 				 </a>
 			</div>
 			<div id="collapse60" class="collapse" data-parent="#accordion">
@@ -1128,7 +1129,7 @@
 					Hej Ida.<br />
 					Nej, du förstör styrkan i spånskivan.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1145,14 +1146,14 @@
 					Därför gör armeringsnätet mest nytta mot spånskivan. <br />
 					Många vill ha den i mitten men det är bättre mot spånskivan.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse58">
-					1 mar 2016<br /> 
-					Hej Kan man behandla flytspackel med surt färgämne eller man måste lägga betong? 
+					1 mar 2016<br />
+					Hej Kan man behandla flytspackel med surt färgämne eller man måste lägga betong?
 				 </a>
 			</div>
 			<div id="collapse58" class="collapse" data-parent="#accordion">
@@ -1161,7 +1162,7 @@
 					Det här har vi ingen aning om. Vad är det för surt färgämne som du vill lägga på?<br />
 					Vanligast är klinker / granitkeramik eller någon typ av betongfärg som man lägger på.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1181,7 +1182,7 @@
 					Ta reda på vilket material utövaren hade och ring tillverkaren. <br />
 					Då har du svart på vitt. Gå inte vidare innan Ni vet.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1190,37 +1191,37 @@
 					10 feb 2016 <br />
 					Vi har tänkt att flytspackla golvet i källaren som är målade betonggolv. Golvet är utsatt för kontinuerlig fuktvandring utifrån, vilket bl.a. inneburit att färgen släppt.<br />
 					Jag har slipat bort färgen och skall nu jämna av golvet med flytspackel. <br />
-					Hur skall jag göra med primer på den lite fuktiga ytan och vilka produkter skall jag använda för att få ett bra resultat? Med vänlig hälsning Peter 
+					Hur skall jag göra med primer på den lite fuktiga ytan och vilka produkter skall jag använda för att få ett bra resultat? Med vänlig hälsning Peter
 				 </a>
 			</div>
 			<div id="collapse56" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Peter. <br />
 					Är det lite fuktigt så kolla att flytspacklet tål detta. <br />
-					Istället för fästprimer så ta fix som du skrapar ut på golvet.<br /> 
+					Istället för fästprimer så ta fix som du skrapar ut på golvet.<br />
 					Fixen bildar en häftbrygga mellan betongen och flytspacklet. Ett bra flytspackel är Plan Rapid. Se länk <br />
 					https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse55">
 					16 jan 2016 <br />
-					Hej Vi har tänkt att flytspackla golven i källaren som är målade betonggolv.<br /> 
+					Hej Vi har tänkt att flytspackla golven i källaren som är målade betonggolv.<br />
 					Vad bör man tänka på? <br />
 					Kan man flytspackla direkt på eller måste man slipa bort färgen för att det ska andas?<br /> Mvh Gary K
 				 </a>
 			</div>
 			<div id="collapse55" class="collapse" data-parent="#accordion">
 				<div class="card-body">
-					Hej Gary.<br /> 
+					Hej Gary.<br />
 					Färgen kan släppa och då följer flytspacklet med. <br />
 					Slip bort färgen, låna proffsutrustning så går det enklare. <br />
 					Är det lite fuktigt så kolla att flytspacklet tål detta.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1241,7 +1242,7 @@
 					Golvgips gör inte ett stabilare golv men tätar springor. <br />
 					Är det golvvärme så bör du ha minst 15 mm vid golvbrunnen och sen fall i resten av rummet.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1259,7 +1260,7 @@
 			<div id="collapse53" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Henric. <br />
-					Det är viktigt att frigoliten är hård, fråga efter en markskiva. 
+					Det är viktigt att frigoliten är hård, fråga efter en markskiva.
 					Angående höjden på flytspackel så räknar vi (enligt Kiilto och branschen) så här:<br />
 					x) Vattenburen golvvärme ska ha minst 15 mm ovan slang.<br />
 					x) Avjämning i flytande konstruktion (som du har), minst 30 mm i totaltjocklek.<br />
@@ -1268,14 +1269,14 @@
 					vilket gör att du måste ha ännu mera för golvfallet). <br />
 					Så svaret på din fråga är nej.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse52">
 					20 dec 2015 <br />
-					Jag har gjutit in vattenburen värme i en betongplatta på 13 m2.<br /> 
+					Jag har gjutit in vattenburen värme i en betongplatta på 13 m2.<br />
 					Golvet behöver jämnas ut då det finns en mindre förhöjning på något ställe. <br />
 					Hur tunt kan man lägga flytspackel ovanpå den färdiga betongen om man gjutit in slang i plattan?
 				 </a>
@@ -1286,7 +1287,7 @@
 					Det finns spackel som går mot noll men de är  dyrare. <br />
 					Det billigaste spacklet vi har är minimum 5 mm, Flytspackel Fiber 25 kg.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1303,11 +1304,11 @@
 				<div class="card-body">
 					Hej Bengt. <br />
 					Armeringsnät har du när det är spånskivegolv. <br />
-					Har du betong så slipper du ha armeringsnät.<br /> 
+					Har du betong så slipper du ha armeringsnät.<br />
 					Fyll gärna i offertmallen så kan vi ge dig en detaljerad offert på ditt badrum, vi har Kiilto tätskikt också!<br />
 					https://www.kakelplattan.se/index.php?menu=offert
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1336,7 +1337,7 @@
 					Tänk på att heltäckningsmattans lim ska fungerar på färg. <br />
 					Kolla först att det finns någon som säljer lim som fungerar på färg!
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1354,7 +1355,7 @@
 					Nej du kan inte bara använda flytspackel utan det måste vara tätskikt ovanpå. <br />
 					Det går hellre inte att flytspackla direkt på färg, släpper färgen så följer flytspacklet med.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1373,14 +1374,14 @@
 					Fixen fäster då i golvet och det bildas en tunn häftbrygga. <br />
 					OBS att detta gäller Kiiltos produkter!
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse47">
 					29 nov 2015 <br />
-					Hej, Jag ska flytspackla ett badrumsgolv med vattenburen golvvärme och har fått två olika förslag att gå på.<br /> 
+					Hej, Jag ska flytspackla ett badrumsgolv med vattenburen golvvärme och har fått två olika förslag att gå på.<br />
 					En säger att jag ska prima på holvspånet innan flytspackel och den andra att jag ska lägga en cellplastskiva alt. Åldersbesyändig plast på golvspånet (utan primer). <br />
 					Vilket förslag ska jag gå på?
 				 </a>
@@ -1391,9 +1392,9 @@
 					Vi som säljer Kiilto rekommenderar alltid att du ska prima golvet (max 24 timmar innan flytspackling), på med armeringsnät och sen flytspackla. <br />
 					Det ska vara ett flytspackel som fungerar med spånskivan!
 				</div>
-			</div>    
-		</div>		
-		
+			</div>
+		</div>
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse46">
@@ -1410,8 +1411,8 @@
 					Nu får man inte gå på kabeln när man flytspacklar och du kan flytspackla i 2 omgångar. <br />
 					En omgång för att täcka kabeln och armeringsnätet och sen ett lager ovan för ev fallbyggnad. En del limmar kabeln i armeringsnätet!
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1427,13 +1428,13 @@
 					Vi håller inte på med betong men det kan vara en krympspricka. <br />
 					Du måste fråga där du köpte betongen vad du bör göra.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse44">
-					19 nov 2015 
+					19 nov 2015
 					Kan golvspackel lagt på ett betonggolv fungera som golv?
 				 </a>
 			</div>
@@ -1444,8 +1445,8 @@
 					De är väldigt dyra. <br />
 					Vi har bara flytspackel som behöver färg, klinker, granitkeramik eller trä som ytskikt.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1463,20 +1464,20 @@
 					Hej Katarina <br />
 					Du kan flytspackla med vissa sorters flytspackel direkt på spånskiva, exempel på detta är<br /> https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257. <br />
 					Det man också behöver är armeringsnät,<br /> https://www.kakelplattan.se/index.php?menu=produkt&id=7391142089125. <br />
-					OBS att regelavståndet måste var tätt, helst 30 cm centrumavstånd och skivkonstruktionen böjstyvhet på golv ska minst motsvara en 22 mm golvspånskiva upplagd på stöd.<br /> 
+					OBS att regelavståndet måste var tätt, helst 30 cm centrumavstånd och skivkonstruktionen böjstyvhet på golv ska minst motsvara en 22 mm golvspånskiva upplagd på stöd.<br />
 					Det finns tyvärr vissa husbyggare som har så dåliga konstruktion så att det inte går att lägga flytspackel! <br />
 					Fråga husbyggaren vad som gäller för ditt hus.<br />
 					Fyll gärna i offertmallen så gör vi beräkningar på flytspackel, tätskikt och övrigt material som du behöver till ditt badrum.<br />
 					https://www.kakelplattan.se/index.php?menu=offert
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse42">
 					25 okt 2015 <br />
-					Hej, jag har ett spångolv som står på plintar på ca 1,70 x 3,20.<br /> 
+					Hej, jag har ett spångolv som står på plintar på ca 1,70 x 3,20.<br />
 					Kan det va nån bärande risk om man flytspacklar det med ca 2cm. <br />
 					Spacklet lär väll vara ganska tungt misstänker jag. <br />
 					Bjälkarna ligger på cc60.<br /> Mvh Viktor
@@ -1489,10 +1490,10 @@
 					Vad vi menar är att det är tungt men vikten fördelas över en stor yta. Det är bättre att ha täta reglar. <br />
 					Med spånskivegolv så bör du ha minst 12 mm flytspackel och armeringsnät. <br />
 					Har du elektrisk golvvärme så bör du upp till 15 mm. Nu vet vi inte om golvkonstruktionen klarar av ökningen av vikten men det märker du när du står där inne. <br />
-					Tänk på att din egen vikt är mycket högre på den lilla yta du står på, än vad flytspacklet utgör. 
+					Tänk på att din egen vikt är mycket högre på den lilla yta du står på, än vad flytspacklet utgör.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1512,8 +1513,8 @@
 					Men vi säljer ett som klarar tillskjutande fukt men kan inte läggas utomhus! <br />
 					Det är vårt billigaste flytspackel och det är fiberbaserat.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1526,8 +1527,8 @@
 				<div class="card-body">
 					Hej. <br />Cement, sand och vatten. Hemligheterna är tillsatsmedlen som tillsätts för snabb härdning.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1541,8 +1542,8 @@
 					Hej. <br />
 					När det har härdat enligt tillverkaren. Kiiltos flytspackel härdar 1 cm per dag.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1563,13 +1564,13 @@
 					Hör av dig till oss så ska vi hjälpa dig, detta kräver lite mera info från din sida. <br />
 					Telefon 054-18 81 80 eller info@kakelplattan.se, vi har support till 21:00 varje dag, året om.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse37">
-					26 sep 2015<br /> 
+					26 sep 2015<br />
 					Hej Jag har gjutit in 16 slang i betong med 30 cm cellplast under i en källare som jag gjort..<br />
 					Plattan är ca 50 m2 med lite vinklar . <br />
 					Det finns lite svackor här o där.Jag ska lägga klinkers över hela ytan.<br />
@@ -1582,8 +1583,8 @@
 					Hej Per. <br />
 					Vi har skickat en offert till dig.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1602,8 +1603,8 @@
 					Teoretiskt kan du då gå ner till 8 mm (3 + 5), men vi vill att du ska ha lite marginal så ta 10 mm. <br />
 					Detta gäller alltså vid betong!
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1617,11 +1618,11 @@
 			<div id="collapse35" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej Elvy. <br />
-					Ta silikon eller något liknande som Ni har hemma.<br /> 
+					Ta silikon eller något liknande som Ni har hemma.<br />
 					Tejp går också bra. Viktigt att få tätt så att flytspacklet inte rinner emellan.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1636,10 +1637,10 @@
 					1) Flytspacklet kommer att fräta bort ytskiktet på mattan, sen kommer flytspacklet att ligga löst. <br />
 					2) Mattan fungerar som ett tätskikt och har du sen ett tätskikt ovanpå flytspacklet så förstörs flytspacklet <br />
 					(om det är mycket fukt kvar i flytspacklet) eller att det kan bildas mögel.<br />
-					Hyr en maskin som tar bort limmet och mattan. 
+					Hyr en maskin som tar bort limmet och mattan.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1654,8 +1655,8 @@
 					Hej Marcus. <br />
 					Ja, fästprimern och flytspacklet gör så att det blir lättare för färgen att lossa och lossar färgen så följer flytspacklet med.
 				</div>
-			</div>    
-		</div>	
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1663,7 +1664,7 @@
 					18 Aug 2015 <br />
 					Hej! Jag har byggt en friggebod på landet som jag ska toalett, duschkabin och tvättmaskin i. <br />
 					Jag har reglar 30 cc och golvspån på det. Som ytskikt kommer ha klinker. <br />
-					Jag är nu i läge att börja med avjämningslager (flytspackla).<br /> Vi är inte säkra på att vi kommer ha friggeboden frostfri under vintern utan troligtvis kommer vi stänga av värmen helt. 
+					Jag är nu i läge att börja med avjämningslager (flytspackla).<br /> Vi är inte säkra på att vi kommer ha friggeboden frostfri under vintern utan troligtvis kommer vi stänga av värmen helt.
 					Vi har dock isolerat den så vi kan ha frostfritt under vintern om det är nödvändigt. <br />
 					Här kommer några frågor jag har <br />
 					1. Hur länge kan jag vänta mellan att jag flytspacklar och att jag lägger på klinker? <br />
@@ -1680,8 +1681,8 @@
 					2) Ja men du har skyddat golvet mot regn och snö så att du behöver inte orora dig. Undvik att hälla vatten på flytspacklet så att det senare fryser till.<br />
 					3) Ja. Undvik att skita ner golvet med olja och jord.
 				</div>
-			</div>    
-		</div>			
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -1698,9 +1699,9 @@
 					Kolla i färgaffären vilken färg som är bra, ta en renodlad färgbutik, de kan oftast sina saker. <br />
 					Vi har flera typer men vårt flytspackel fiber är utmärkt till detta projekt.
 				</div>
-			</div>    
+			</div>
 		</div>
-		
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse30">
@@ -1715,7 +1716,7 @@
 					Hej.<br /> Ja du kan ändra lutningen med flytspackel men du måste ha något slitlager ovanpå, ex granitkeramik eller färg som tål hög belastning. <br />
 					Allt som är löst ovanpå ska tas bort, ingenting blir starkare av att du lägger någon ovanpå ett löst lager.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1731,13 +1732,13 @@
 					Det blir svagt och risken är att det lossnar. <br />
 					Sen kan du flytspackla men det måste på ett ytskikt som tål slitage, flytspackel tål inte slitage.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse28">
-					10 Juli 2015<br /> 
+					10 Juli 2015<br />
 					Hej!  ja bar en fråga , Ja håller på att fixa mitt kök . <br />
 					Så är det så att ja ska lägga golv Klinker Så ha golv värme Det ligger på Frigolit sen ha dom platån som ska sprida värmen . <br />
 					Hur ska jag göra . <br />
@@ -1750,13 +1751,13 @@
 					Hej Bengt. <br />
 					Nu är det beroende på tillverkaren men oftast är det så här. <br />
 					Tvätta av plåtarna med t-röd, det är en beläggning som ska bort. <br />
-					Prima med Kiilto Startprimer, outspädd (max 24 timmar innan flytspackling).<br /> 
+					Prima med Kiilto Startprimer, outspädd (max 24 timmar innan flytspackling).<br />
 					Sen ska armeringsnät läggas ut (omlott) och sen fiberarmerat flytspackel, exempelvis Kiilto Plan Rapid. <br />
 					Min 30 mm flytspackel. Det är viktigt att du kollar tillverkarens rekommendationer men oftast är det som vi har skrivit. <br />
 					Ring oss gärna på 054-18 81 80 (support fram till 21 varje dag även helg)  så går vi igenom allt och vill du ha en offert på detta så fyll i vår offertmall.<br />
 					https://www.kakelplattan.se/index.php?menu=offert
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1778,7 +1779,7 @@
 					Hej Eva.<br /> Det finns inga dumma frågor!<br />
 					1) Om du ska flytspackla eller lägga fix ovan plattan så ska du ta bort all färg. <br />
 					Om färgen ligger kvar så fäster fixen eller flytspacklet i detta och lossnar färgen så följer fix och flytspackel med.<br />
-					2) Det är viktigt att skivorna sitter fast i underlaget, oftast kan man använda flytfix som fäster skivorna samtidigt som det jämnar ut under skivorna.<br /> 
+					2) Det är viktigt att skivorna sitter fast i underlaget, oftast kan man använda flytfix som fäster skivorna samtidigt som det jämnar ut under skivorna.<br />
 					Fabrikanterna på skivorna har oftast testat med tillverkare av fix och flytspackel, använd deras råd för att det ska bli bra. <br />
 					Vi säljer Kiilto och de har testat med ex Flooré (som tillverkar vattenburen golvvärme och isoleringsskivor), skulle det vara dem så är det flytfix (Floorfix) tillsammans med en tillsats som heter fixbinder. <br />
 					Den skivan som Flooré har behövs inget flytspackel ovanpå skivan utan du kan sätta plattorna direkt på skivan med Floorfix. <br />
@@ -1788,9 +1789,9 @@
 					Minst 15 mm ovanför slangen eller minimum 30 mm totaltjocklek (ta ett flytspackel som har fiberarmerat). <br />
 					Sen kan du lägga plattor direkt på flytspacklet och ställa glaspartier på golvet utan att det spricker (om det glaspartierna väger för mycket). <br />
 					Vill du sen ha jämnt golv så finns det flytspackel som är självutjämnande. <br />
-					Du kan ta ett fiberarmerat flytspackel först och se till att slangen täcks med 15 mm eller minimum 30 mm och lägga ett topplager av självutjämnande flytspackel. 
+					Du kan ta ett fiberarmerat flytspackel först och se till att slangen täcks med 15 mm eller minimum 30 mm och lägga ett topplager av självutjämnande flytspackel.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1807,31 +1808,31 @@
 					Flytspacklet kan inte användas som ett slitlager, alltså som ett topplager. <br />
 					Vårt flytspackel kan inte ligga utomhus, det spricker när frosten kommer.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse25">
-					25 juni 2015<br /> 
+					25 juni 2015<br />
 					Hej. <br />Tack för svar men som ytlager menar du klinkers eller måla med 2k epoxy färgen räcker mvh Jonas
 				 </a>
 			</div>
 			<div id="collapse25" class="collapse" data-parent="#accordion">
 				<div class="card-body">
 					Hej igen. <br />
-					Det fungerar med färg som är gjord för golv. Nu vet vi inget om din 2k epoxy, men det låter som en kraftig golvfärg. 
+					Det fungerar med färg som är gjord för golv. Nu vet vi inget om din 2k epoxy, men det låter som en kraftig golvfärg.
 					Du kan givetvis använda granitkeramik som är för garagegolv och som är starkare än vanlig klinkers. <br />
 					Se vårt exempel på granitkeramik här. <br />https://www.kakelplattan.se/index.php?menu=granitkeramik
 				</div>
-			</div>    
+			</div>
 		</div>
-		
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse24">
 					24 juni 2015 <br />
-					Hej.. <br />Jag har byggt ihop mitt garage med en gammal tillbyggnad. I garaget är plattan ok men i tillbyggnaden från -86 är den precis som dem jämnat av den med en borste. 
+					Hej.. <br />Jag har byggt ihop mitt garage med en gammal tillbyggnad. I garaget är plattan ok men i tillbyggnaden från -86 är den precis som dem jämnat av den med en borste.
 					Sen i mitten har jag gjutit ny betongplatta för att få ihop allt till ett. <br />
 					Nu tänker jag måla mitt garage med 2k epoxy. <br />
 					Men skulle vilja flyta tillbyggnaden från -86 så den blir jämn. <br />
@@ -1840,17 +1841,17 @@
 			</div>
 			<div id="collapse24" class="collapse" data-parent="#accordion">
 				<div class="card-body">
-					Hej Jonas. <br />Ta Flytspackel fiber Plan Rapid (mer arbete för att få rakt) eller Superflytande flytspackel, 
+					Hej Jonas. <br />Ta Flytspackel fiber Plan Rapid (mer arbete för att få rakt) eller Superflytande flytspackel,
 					Tasoflex som är självutjämnande. OBS att självutjämnande kräver förberedelser och kan bli ojämnt. <br />
 					Sen måste du ha ett ytlager, flytspackel tål inte slitage.
 				</div>
-			</div>    
-		</div>		
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse23">
-					27 maj 2015<br /> 
+					27 maj 2015<br />
 					Hej. Tänkte flytspackla i vårt uterum, där ligger redan plattor men behöver få det rakt innan jag lägger klickgolv. <br />
 					vilket flytspackel ska jag ha?
 				 </a>
@@ -1860,7 +1861,7 @@
 					Hej John. <br />
 					Om det är under tak och regn eller snö inte kommer åt golvet kan du använda, Flytspackel fiber Plan Rapid eller Superflytande flytspackel, Tasoflex.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1874,7 +1875,7 @@
 					Hur beter sig spacklet, kan man kliva i det medan det är vått? <br />
 					Eller blir det lätt ojämnt då? <br />
 					Något verktyg på långt skaft, kan det vara till hjälp för att sprida spacklet mot vägg. <br />
-					Hmm… Första gången, som ni hör… 
+					Hmm… Första gången, som ni hör…
 				 </a>
 			</div>
 			<div id="collapse22" class="collapse" data-parent="#accordion">
@@ -1884,9 +1885,9 @@
 					Ta avstängningslister och dela av rummet i rutor. <br />
 					Ta varje ruta för sig och vänta tills det har härdat klart. <br />
 					Det går att gå med stövlar i flytspacklingen men det är kletigt och när det stelnar så blir det märken. <br />
-					Du kan även fästa en spackelspade på ett långt skaft. 
+					Du kan även fästa en spackelspade på ett långt skaft.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1905,7 +1906,7 @@
 					2) Gå ner på knä och kolla utmed golvet så ser du mycket mera. Kan kan med hjälp av laser mäta av rummet. Går att hyra. <br />
 					3) Laser eller vattenpass (går med en rak bräda eller liknande).
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1913,7 +1914,7 @@
 				<a class="card-link" data-toggle="collapse" href="#collapse20">
 					18 april 2015 <br />
 					Hej, först lite bakgrund. Jag bygger ett badrum och bastu i källare (ca 15 m2) i en källare och tänkte lägga in golvvärmen i flytspacklet. <br />
-					Då det är ett oisolerat källargolv (dock ca 30 cm betong) så var min plan att bara lägga fuktspärr i själva duschområdet 
+					Då det är ett oisolerat källargolv (dock ca 30 cm betong) så var min plan att bara lägga fuktspärr i själva duschområdet
 					(en variant som ska andas) och inte i bastu och det övriga utrymmet för att undvika problem med eventuellt tillskjutande fukt utifrån. <br />
 					Och nu till själva frågan, krävs det att det är ett flytspackel som tål utemiljö och golvvärme? <br />
 					(Jag hittar väldigt lite info om detta, det jag hittar i spackelväg tål antingen golvvärme eller utemiljö). <br />
@@ -1930,13 +1931,13 @@
 					Det du kan kolla är att flytspacklet ska tåla tillskjutande fukt. <br />
 					Vi har ett flytspackel som är mycket lämpligt för detta, <br />https://www.kakelplattan.se/index.php?menu=produkt&id=6411512701257 .
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse19">
-					8 april 2015 <br />Hej på er! <br />Jag har ett kvadratiskt rum på 4x4m, jag skall nu öppna upp ytterväggen på och bygga ut 4×6,7m (rummet blir som ett L). Den gamla delen av huset står på torpargrund och utbygget kommer att vara på plintar eller en krypgrund. 
+					8 april 2015 <br />Hej på er! <br />Jag har ett kvadratiskt rum på 4x4m, jag skall nu öppna upp ytterväggen på och bygga ut 4×6,7m (rummet blir som ett L). Den gamla delen av huset står på torpargrund och utbygget kommer att vara på plintar eller en krypgrund.
 					Fråga: Hur gör man vid övergången mellan byggnaderna? <br />
 					Jag har tänkt att lägga vattenburen golvvärme som jag sedan flytspacklar. <br />
 					krävs rörelsefog? <br />
@@ -1950,7 +1951,7 @@
 					Vi har pratat med flera och samma negativa svar. <br />
 					Flytspacklar du, kommer en spricka med största sannolikhet att inträffa.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -1968,13 +1969,13 @@
 				<div class="card-body">
 					Hej. <br />Nej, flytspackel måste ha ett slitlager ovan sig.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse17">
-					24 mars 2015 <br />Hej. <br />Jag ska flytspackla en liten toalett och har en fråga. 
+					24 mars 2015 <br />Hej. <br />Jag ska flytspackla en liten toalett och har en fråga.
 					Upp ur golvet (spånskiva) kommer följande rör: – Avlopp till toalett, plast<br />
 					– 1 vattenrör till toalett, plast – 2 vattenrör blandare, plast<br />
 					– Avlopp till handfat, plast – 2 värmerör till element, <br />
@@ -1987,15 +1988,15 @@
 			</div>
 			<div id="collapse17" class="collapse" data-parent="#accordion">
 				<div class="card-body">
-					Hej Tommy <br />Lägg en tejp runt, spackla o skära av i nivå med spackel efteråt. 
+					Hej Tommy <br />Lägg en tejp runt, spackla o skära av i nivå med spackel efteråt.
 					Då finns möjlighet till rörelse. <br />
 					Ska man vara noga så får bara wc o hf-rör komma upp ur golv. <br />
 					Om vattenrör kommer ur golv och de inte går att bygga bort så bör man gjuta en klack, kanske viktigaste i badrum. <br />
 					Tätskikt med uppvik 5 cm på golv krävs på alla ytor med tappvatten.
 				</div>
-			</div>    
-		</div>		
-		
+			</div>
+		</div>
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse16">
@@ -2012,7 +2013,7 @@
 					Här suger plasten inget men har du aluminiumyta så ska du ha fästprimer. <br />
 					Tänk på att rengöra metallytan med T-Röd innan du fästprimar.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -2035,7 +2036,7 @@
 					Under flytspacklet behöver du primer om det inte är mycket tillskjutande fukt! <br />
 					Ovanpå flytspacklet så är det golvfärgens egenskaper som bestämmer vad du ska göra.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -2050,7 +2051,7 @@
 			</div>
 			<div id="collapse14" class="collapse" data-parent="#accordion">
 				<div class="card-body">
-					Först så ska kabeln ut (fästas i betongen med smältlim / tejp eller najas / buntbandas fast i armeringsnätet på spånskivegolv) och den ska sen flytspacklas in.<br /> 
+					Först så ska kabeln ut (fästas i betongen med smältlim / tejp eller najas / buntbandas fast i armeringsnätet på spånskivegolv) och den ska sen flytspacklas in.<br />
 					Beroende på underlag så ska du ibland prima underlaget. <br />
 					Har du betong och tillskjutande fukt så ska inte fästprimer användas (gäller Kiiltos produktsortiment). <br />
 					Är det torr betong eller spånskiva så ska fästprimer användas. Fästprimern är inte vattentät. <br />
@@ -2058,7 +2059,7 @@
 					Tätskiktet ska vara ovan flytspacklet. <br />
 					Ovanpå ska klinkern ligga, klinkern ska skydda tätskiktet.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -2075,7 +2076,7 @@
 					Vanligtvis tätar man springor och genomföringar med tex. acrylfog eller silikon. <br />
 					Lägger ni mjölkpapp el plast så måste ni spackla tjockare (30 mm) då det blir en flytande konstruktion.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -2092,7 +2093,7 @@
 					Det kostar inte så mycket.<br />
 					Egenskap 1: Fast man har dammsugit och gjort rent så finns det rester kvar. <br />
 					Primern bildar en fin film som binder detta.<br />
-					Egenskap 2: Primerns film gör att fukten i flytspacklet inte försvinner ner i underliggande material.<br /> 
+					Egenskap 2: Primerns film gör att fukten i flytspacklet inte försvinner ner i underliggande material.<br />
 					Gammal betong och underlag som RF som övriga rummet suger mycket fukt.<br />
 					Egenskap 3: Primerns film hindrar luft att stiga under bränningen. <br />
 					Resultatet av stigande luft kan bli blåsor och luftkratrar i ytan. <br />
@@ -2102,7 +2103,7 @@
 					Det kan krävas primning två gånger. <br />
 					Påföring av primer med styv borste kan också förbättra inträngningsegenskaperna för Primern.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -2118,7 +2119,7 @@
 					Om du börjar äta av det så är det inte heller så bra. <br />
 					Har du gjort något speciellt ang. frågan?
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -2133,10 +2134,10 @@
 				<div class="card-body">
 					Hej Mathias. <br />Du bör inte lägga kabeln djupare  än 4 cm. <br />
 					Värmen kommer att först värma upp flytspacklet och sen stiger värmen till ytan. <br />
-					I allmänhet är det föredraget att placera kabeln i den övre delen av flytspacklet, speciellt om det är ett tjockt lager.<br /> 
+					I allmänhet är det föredraget att placera kabeln i den övre delen av flytspacklet, speciellt om det är ett tjockt lager.<br />
 					Anledningen till detta är att svarstiden för värmen kommer att vara kortare och därför lättare att kontrollera med termostaten.
 				</div>
-			</div>    
+			</div>
 		</div>
 
 		<div class="card">
@@ -2144,19 +2145,19 @@
 				<a class="card-link" data-toggle="collapse" href="#collapse9">
 					30 dec 2014 <br />
 					Hej, tänkte lägga klinker i en lite hall, detta på en betongplatta. <br />
-					Har hört att jag ska använda megaplan. hur mycket behöver jag då ytan är 2,3 kvadratmeter och jag ska upp ungefär 15 mm, 
+					Har hört att jag ska använda megaplan. hur mycket behöver jag då ytan är 2,3 kvadratmeter och jag ska upp ungefär 15 mm,
 					samt fråga 2. kan jag lägga först en gång och sedan lägga ytterligare en gång för att komma i rätt nivå ? <br />
 					Mycket tacksam för svar. <br />MVH Anders
 				 </a>
 			</div>
 			<div id="collapse9" class="collapse" data-parent="#accordion">
 				<div class="card-body">
-					Hej Anders. <br />Megaplan är gjort av tillverkaren Mapei. Det finns ca 20 tillverkare till som säljer flytspackel.<br /> 
+					Hej Anders. <br />Megaplan är gjort av tillverkaren Mapei. Det finns ca 20 tillverkare till som säljer flytspackel.<br />
 					Det behöver inte bara vara Megaplan. 1) Det är 3 säckar (20 kg) som behövs för detta. <br />
 					2) Ja du kan lägga hur många gånger som helst men du bör ha fästprimer i mellan.
 				</div>
-			</div>    
-		</div>		
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -2170,8 +2171,8 @@
 				<div class="card-body">
 					God jul! <br />Nej, vatten rinner rakt igenom. Flytspackel uppträder som betong.
 				</div>
-			</div>    
-		</div>		
+			</div>
+		</div>
 
 		<div class="card">
 			<div class="card-header">
@@ -2187,9 +2188,9 @@
 					Tänk på att ha med armeringsnät också. <br />
 					En spårad spånskiva är inte lika stark som en hel spånskiva, ibland måste man ha en hel spånskiva under den spårade!
 				</div>
-			</div>    
+			</div>
 		</div>
-		
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse6">
@@ -2205,9 +2206,9 @@
 					Kan du vänta maxdagar så är det bra. <br />
 					Tätskiktet är oftast så tätt att härdningen fördröjs.
 				</div>
-			</div>    
-		</div>	
-		
+			</div>
+		</div>
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse5">
@@ -2223,9 +2224,9 @@
 					Det är dyrare men resultatet blir bra. <br />
 					Du kan nu ta fästprimer på ytan och hälla ut lättflytande spackel på detta så ordnar det sig.
 				</div>
-			</div>    
-		</div>		
-		
+			</div>
+		</div>
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse4">
@@ -2249,9 +2250,9 @@
 					Vill du ha en detaljerad offert så gå in på https://www.kakelplattan.se/index.php?menu=offert och fyll i så mycket som möjligt. <br />
 					Med vänlig hälsning Kakelplattan AB.
 				</div>
-			</div>    
+			</div>
 		</div>
-		
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse3">
@@ -2269,9 +2270,9 @@
 					2) Häller jag i så fall flytspackel bara i svackan, eller skall hela golvet som är ca 16 m2 stort täckas med flytspackel? <br />
 					Det beror på vilket spackel du använder. Är det minsta bygghöjd på 5 mm så behöver du spackla hela golvet. <br />Med vänlig hälsning www.Kakelplattan.se
 				</div>
-			</div>    
+			</div>
 		</div>
-		
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse2">
@@ -2285,9 +2286,9 @@
 					1983 förbjöds kaseinhaltigt flytspackel. Flytspacklet med kasein har orsakat stora problem. <br />
 					Vårt flytspackel innehåller inte kasein och är inte farligt.
 				</div>
-			</div>    
+			</div>
 		</div>
-	 
+
 		<div class="card">
 			<div class="card-header">
 				<a class="card-link" data-toggle="collapse" href="#collapse1">
@@ -2300,26 +2301,29 @@
 					Det som kan hända är att betongen krymper och då pressas plattorna ihop och ställer sig. <br />
 					Det finns mätare och det som ska mätas är relativa fuktigheten (RF). <br />
 					Relativ fuktighet. Text är ifrån Wikipedia. <br />
-					Luftens relativa fuktighet (?) är kvoten mellan vattenångans partialtryck (pw) och 
-					vattenångans partialtryck vid mättat tillstånd (ps, indexet s kommer från engelskans saturate) i atmosfären, 
+					Luftens relativa fuktighet (?) är kvoten mellan vattenångans partialtryck (pw) och
+					vattenångans partialtryck vid mättat tillstånd (ps, indexet s kommer från engelskans saturate) i atmosfären,
 					det vill säga vattnets ångtryck vid aktuell temperatur. <br />
-					Vid en relativ luftfuktighet på 100 % behöver det inte regna, men det är åtminstone dimma eller dagg.<br /> 
+					Vid en relativ luftfuktighet på 100 % behöver det inte regna, men det är åtminstone dimma eller dagg.<br />
 					Däremot gäller inte det omvända. Är det dimma, dagg eller regn, så behöver inte luftfuktigheten vara 100 %. <br />
 					Den relativa luftfuktigheten kan variera väldigt mycket, både över dygnet och mellan olika delar av ”luftprofilen”, <br />
 					vilket påverkar mikroklimatet. Inomhusluft brukar kännas torr för människan när luftfuktigheten understiger 30%. <br />
-					Torr luft brukar vara vanligare i kallare klimat för att kondensen inte får plats i den kyliga luften. 
+					Torr luft brukar vara vanligare i kallare klimat för att kondensen inte får plats i den kyliga luften.
 				</div>
 			</div>
 		</div>
 
-	
+
 	</div>
-</div>
-<?php include 'include/fot.php';?>
-<!--
-Filmer:
-	Grundläggande->https://www.youtube.com/watch?v=hnCmSXCZEpU
-	Detalj ->https://www.youtube.com/watch?v=9cKsq14Kfsw
-	Sass ->https://www.youtube.com/watch?v=roywYSEPSvc
-	Detalj och lång->https://www.youtube.com/watch?v=Uhy3gtZoeOM
- -->
+</section>
+<?php include 'include/footer.php';?>
+
+<?php
+
+	// Filmer:
+	// 	Grundläggande->https://www.youtube.com/watch?v=hnCmSXCZEpU
+	// 	Detalj ->https://www.youtube.com/watch?v=9cKsq14Kfsw
+	// 	Sass ->https://www.youtube.com/watch?v=roywYSEPSvc
+	// 	Detalj och lång->https://www.youtube.com/watch?v=Uhy3gtZoeOM
+
+?>
