@@ -15,10 +15,10 @@
                     <a class="nav-link" href="offert-flytspackel.php">Offert på flytspackel</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="faq-flytspackel.php">Frågor om flytspackel FAQ</a>
+                    <a class="nav-link" href="faq-flytspackel.php">Frågor om flytspackel</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.youtube.com/user/KakelplattanAB/videos" target="_blank">Youtube-kanalen ^</a>
+                    <a class="nav-link" href="https://www.youtube.com/user/KakelplattanAB/videos" target="_blank">Youtube-kanalen</a>
                 </li>
             </ul>
             <ul class="navbar-nav ml-auto">
