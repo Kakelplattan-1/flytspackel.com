@@ -1,7 +1,7 @@
 // Global variables
 $dark-green: #245733 !important
 $light-green: #a4b78c !important
-$text-hover: #bdc3c7 !important
+$btn-hover: #D8D8D8 !important
 
 // Global elements
 *
@@ -20,13 +20,24 @@ a
     text-decoration: underline
 
 // Global classes
+.btn
+    text-decoration: none
+
 .btn.btn-primary
     background-color: $dark-green
     border: 2px solid $dark-green
     color: white
-    text-decoration: none
     &:hover
-        background-color: $light-green
+        background-color: white !important
+        color: $dark-green
+        border: 2px solid $dark-green
+
+.btn.btn-secondary
+    background-color: white
+    border: 2px solid $dark-green
+    color: $dark-green
+    &:hover
+        background-color: $btn-hover
         border: 2px solid $dark-green
 
 .link.color
@@ -46,9 +57,20 @@ nav
             color: white
             text-decoration: none
             &:hover
-                color: $text-hover
+                color: $btn-hover
 
 // Footer
+.footer
+    border-top: 20px solid lighten(black, 50%)
+    min-height: 100px
+    background-color: white
+
+    a
+        color: $dark-green
+        text-decoration: none
+        &:hover
+            color: darken( #a4b78c, 20% ) !important
+            text-decoration: underline
 
 
 // Support partial
@@ -61,3 +83,4 @@ nav
     min-height: 100vh
     width: 100%
     background-color: $light-green
+    color: white
