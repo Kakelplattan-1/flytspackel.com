@@ -2,7 +2,7 @@
         <footer class="footer pt-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-3 mb-5 mb-md-0">
                         <img src="img/flytspackel-logo.gif" alt="Support att göra flytspacklingen själv" title="Support att göra flytspacklingen själv" class="img-fluid rounded" />
                     </div>
                     <div class="col-md-3">
