@@ -1,7 +1,7 @@
 <?php include 'include/head.php'; ?>
 <?php include 'include/navbar.php'; ?>
 
-    <section class="containerladning-page-section">
+    <section class="ladning-page">
         <div class="carousel slide" data-ride="carousel" id="carouselIndicators">
             <ol class="carousel-indicators">
                 <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
@@ -88,9 +88,10 @@
                                 <br><br>
                                 Klicka för offert med frakt och tillbehör.
                             </p>
-                            <a class="btn btn-secondary btn-expand" href="offert-flytspackel.php">Offert flytspackel</a>
+                            <a class="btn btn-secondary" href="offert-flytspackel.php">Offert flytspackel</a>
                         </div>
                     </div>
+                    <br class="d-block d-md-none">
                     <div class="col-md-6 d-flex justify-content-center">
                         <img src="img/Kiilto-Floor-Heat.jpg" alt="Kiilto Floor Heat" title="Kiilto Floor Heat" class="img-fluid" />
                     </div>
@@ -112,9 +113,10 @@
                                 <br><br>
                                 Klicka för offert med frakt och tillbehör.
                             </p>
-                            <a class="btn btn-secondary btn-expand" href="offert-flytspackel.php">Offert flytspackel</a>
+                            <a class="btn btn-secondary" href="offert-flytspackel.php">Offert flytspackel</a>
                         </div>
                     </div>
+                    <br class="d-block d-md-none">
                     <div class="col-md-6 d-flex justify-content-center">
                         <img src="img/Kiilto-Plan-Rapid.jpg" alt="Kiilto Plan Rapid" title="Kiilto Plan Rapid" class="img-fluid" />
                     </div>
@@ -125,6 +127,7 @@
                     <div class="col-md-6 d-flex justify-content-center">
                         <img src="img/Kiilto-Plan-Rapid.jpg" alt="Kiilto Plan Rapid" title="Kiilto Plan Rapid" class="img-fluid" />
                     </div>
+                    <br class="d-block d-md-none">
                     <div class="col-md-6 d-flex justify-content-center">
                         <div class="text-block">
                             <h4>Kiilto Plan Rapid</h4>
@@ -139,7 +142,7 @@
                                 <br><br>
                                 Klicka för offert med frakt och tillbehör.
                             </p>
-                            <a class="btn btn-secondary btn-expand" href="offert-flytspackel.php">Offert flytspackel</a>
+                            <a class="btn btn-secondary" href="offert-flytspackel.php">Offert flytspackel</a>
                         </div>
                     </div>
                 </div>
@@ -149,6 +152,7 @@
                     <div class="col-md-6 d-flex justify-content-center">
                         <img src="img/Kiilto-Floor-Heat.jpg" alt="Kiilto Floor Heat" title="Kiilto Floor Heat" class="img-fluid" />
                     </div>
+                    <br class="d-block d-md-none">
                     <div class="col-md-6 d-flex justify-content-center">
                         <div class="text-block">
                             <h4>Kiilto Floor Heat DF</h4>
@@ -163,7 +167,7 @@
                                 <br><br>
                                 Klicka för offert med frakt och tillbehör.
                             </p>
-                            <a class="btn btn-secondary btn-expand" href="offert-flytspackel.php">Offert flytspackel</a>
+                            <a class="btn btn-secondary" href="offert-flytspackel.php">Offert flytspackel</a>
                         </div>
                     </div>
                 </div>
