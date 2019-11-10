@@ -70,4 +70,105 @@
 
     <?php include 'include/support.php'; ?>
 
+    <section class="section fullscreen p-5 d-flex align-items-center justify-content-center">
+        <div class="row">
+            <div class="col-lg-6 my-5">
+                <div class="d-block row d-md-flex flex-md-row">
+                    <div class="col-md-6 d-flex justify-content-center">
+                        <div class="text-block">
+                            <h4>Kiilto Floor Heat DF</h4>
+                            <h6>3-50 mm bygghöjd</h6>
+                            <hr>
+                            <p>
+                                Flytspackel för golvvärme | hall | badrum
+                                <br>
+                                Flytspackel för avjämning | fallbyggnad | tillskjutande fukt | pumpbar
+                                <br>
+                                <b>135 kr / 20 kg säcken</b>
+                                <br><br>
+                                Klicka för offert med frakt och tillbehör.
+                            </p>
+                            <a class="btn btn-secondary btn-expand" href="offert-flytspackel.php">Offert flytspackel</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 d-flex justify-content-center">
+                        <img src="img/Kiilto-Floor-Heat.jpg" alt="Kiilto Floor Heat" title="Kiilto Floor Heat" class="img-fluid" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 my-5">
+                <div class="d-block row d-md-flex flex-md-row">
+                    <div class="col-md-6 d-flex justify-content-center">
+                        <div class="text-block">
+                            <h4>Kiilto Plan Rapid</h4>
+                            <h6>5-50 mm bygghöjd</h6>
+                            <hr>
+                            <p>
+                                Flytspackel för golvvärme | plana ytor | tillskjutande fukt | pumpbar
+                                <br>
+                                Flytspackel för hall, entre och plana ytor. Bra till golvvärme
+                                <br>
+                                <b>165 kr / 25 kg säcken</b>
+                                <br><br>
+                                Klicka för offert med frakt och tillbehör.
+                            </p>
+                            <a class="btn btn-secondary btn-expand" href="offert-flytspackel.php">Offert flytspackel</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 d-flex justify-content-center">
+                        <img src="img/Kiilto-Plan-Rapid.jpg" alt="Kiilto Plan Rapid" title="Kiilto Plan Rapid" class="img-fluid" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 my-5">
+                <div class="d-block row d-md-flex flex-md-row">
+                    <div class="col-md-6 d-flex justify-content-center">
+                        <img src="img/Kiilto-Plan-Rapid.jpg" alt="Kiilto Plan Rapid" title="Kiilto Plan Rapid" class="img-fluid" />
+                    </div>
+                    <div class="col-md-6 d-flex justify-content-center">
+                        <div class="text-block">
+                            <h4>Kiilto Plan Rapid</h4>
+                            <h6>5-50 mm bygghöjd</h6>
+                            <hr>
+                            <p>
+                                Flytspackel för golvvärme | plana ytor | tillskjutande fukt | pumpbar
+                                <br>
+                                Flytspackel för hall, entre och plana ytor. Bra till golvvärme
+                                <br>
+                                <b>165 kr / 25 kg säcken</b>
+                                <br><br>
+                                Klicka för offert med frakt och tillbehör.
+                            </p>
+                            <a class="btn btn-secondary btn-expand" href="offert-flytspackel.php">Offert flytspackel</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 my-5">
+                <div class="d-block row d-md-flex flex-md-row">
+                    <div class="col-md-6 d-flex justify-content-center">
+                        <img src="img/Kiilto-Floor-Heat.jpg" alt="Kiilto Floor Heat" title="Kiilto Floor Heat" class="img-fluid" />
+                    </div>
+                    <div class="col-md-6 d-flex justify-content-center">
+                        <div class="text-block">
+                            <h4>Kiilto Floor Heat DF</h4>
+                            <h6>3-50 mm bygghöjd</h6>
+                            <hr>
+                            <p>
+                                Flytspackel för golvvärme | hall | badrum
+                                <br>
+                                Flytspackel för avjämning | fallbyggnad | tillskjutande fukt | pumpbar
+                                <br>
+                                <b>135 kr / 20 kg säcken</b>
+                                <br><br>
+                                Klicka för offert med frakt och tillbehör.
+                            </p>
+                            <a class="btn btn-secondary btn-expand" href="offert-flytspackel.php">Offert flytspackel</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 <?php include 'include/footer.php'; ?>
