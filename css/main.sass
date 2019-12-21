@@ -89,6 +89,13 @@ nav
     background-color: $light-green
     color: white
 
+    .card
+        color: black
+        &-img-top
+            object-fit: cover
+            max-height: 50vh
+        &-title, &-text
+
 .ladning-page
     padding-top: 0
 
@@ -96,7 +103,6 @@ section.faq
     .card
         border: 1px solid $dark-green
         border-radius: 0 !important
-        border: none
         &:hover
             background-color: $btn-hover
             .collapse
